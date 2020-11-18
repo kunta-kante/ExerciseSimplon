@@ -1,0 +1,45 @@
+* {
+    background-color: black;
+    margin: 0%;
+    padding: 1%;
+}
+
+.logo {
+    font-size: 40px;
+    color: yellowgreen;
+}
+
+span {
+    color: yellow;
+}
+
+li {
+    display: grid;
+    list-style: none;
+    justify-content: flex-start;
+    font-size: 20px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.article {
+    margin-bottom: 0%;
+    display: flex;
+    justify-content: center;
+}
+
+.backG {
+    background-image: url(spB.jpeg);
+}
+
+p {
+    color: white;
+}
+
+.fontSize {
+    font-size: 20px;
+    color: red;
+}

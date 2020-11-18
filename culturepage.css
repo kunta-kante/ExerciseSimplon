@@ -1,0 +1,40 @@
+* {
+    background-color: black;
+    margin: 10px;
+}
+
+.logo {
+    font-size: 40px;
+    color: yellowgreen;
+}
+
+span {
+    color: yellow;
+}
+
+li {
+    display: grid;
+    list-style: none;
+    justify-content: flex-start;
+    font-size: 20px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.article {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.backG {
+    background-image: url(im3cul.jpeg);
+}
+
+p {
+    color: white;
+}
